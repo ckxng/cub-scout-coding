@@ -15,3 +15,17 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 - [Exercise 1.4](ex-1.4/) - Editing a webpage
 - [Exercise 1.5](ex-1.5/) - Running JavaScript code
 - [Exercise 1.6](ex-1.6/) - Editing Javascript code
+
+# Module 2 - Variables
+
+# Module 3 - Loops
+
+# Module 4 - Functions
+
+# Module 5 - Buttons
+
+# Module 6 - Text Input
+
+# Module 7 - HTML Output
+
+# Module 8 - Your First Game
