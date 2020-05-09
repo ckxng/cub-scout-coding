@@ -2,7 +2,7 @@
 
 You can download a zip file containing all of these exercises here:
 
-- https://github.com/ckxng/cub-scout-coding/archive/master.zip
+- [https://github.com/ckxng/cub-scout-coding/archive/master.zip](https://github.com/ckxng/cub-scout-coding/archive/master.zip)
 
 Exercises can be found inside folders such as this one (_ex-1.1_).
 
