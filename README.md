@@ -13,3 +13,5 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 - [Exercise 1.2](ex-1.2/) - Viewing a webpage
 - [Exercise 1.3](ex-1.3/) - Viewing a webpage's code
 - [Exercise 1.4](ex-1.4/) - Editing a webpage
+- [Exercise 1.5](ex-1.5/) - Running JavaScript code
+- [Exercise 1.6](ex-1.6/) - Editing Javascript code
