@@ -9,9 +9,9 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 
 # Module 1 - Getting Started (Coding on the web)
 
-- Exercise 1.1 ([instructions](ex-1-1/), [code](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-1-1)) - Hello world!
-- Exercise 1.2 ([instructions](ex-1-2/), [code](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-1-2)) - Building strings
-- Exercise 1.3 ([instructions](ex-1-3/), [code](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-1-3)) - Doing math
+- [Exercise 1.1](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-1-1)) - Hello world!
+- [Exercise 1.2](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-1-2)) - Building strings
+- [Exercise 1.3](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-1-3)) - Doing math
 
 # Module 2 - Variables
 
