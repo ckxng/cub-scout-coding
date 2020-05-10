@@ -7,14 +7,9 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 - [The Code](https://github.com/ckxng/cub-scout-coding)
 - [The Lessons](https://ckxng.github.io/cub-scout-coding)
 
-# Module 1 - Getting Started
+# Module 1 - Getting Started (Coding on the web)
 
-- [Exercise 1.1](ex-1.1/) - Downloading this code
-- [Exercise 1.2](ex-1.2/) - Viewing a webpage
-- [Exercise 1.3](ex-1.3/) - Viewing a webpage's code
-- [Exercise 1.4](ex-1.4/) - Editing a webpage
-- [Exercise 1.5](ex-1.5/) - Running JavaScript code
-- [Exercise 1.6](ex-1.6/) - Editing Javascript code
+- Exercise 1.1 ([instructions](ex-1.1/), [code](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-1.1)) - Hello world!
 
 # Module 2 - Variables
 
@@ -29,3 +24,12 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 # Module 7 - HTML Output
 
 # Module 8 - Your First Game
+
+# Alternate Module - Getting Started (Coding on your computer)
+
+- [Exercise Alt 1.1](ex-alt1.1/) - Downloading this code
+- [Exercise Alt 1.2](ex-alt1.2/) - Viewing a webpage
+- [Exercise Alt 1.3](ex-alt1.3/) - Viewing a webpage's code
+- [Exercise Alt 1.4](ex-alt1.4/) - Editing a webpage
+- [Exercise Alt 1.5](ex-alt1.5/) - Running JavaScript code
+- [Exercise Alt 1.6](ex-alt1.6/) - Editing Javascript code
