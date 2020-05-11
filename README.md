@@ -20,15 +20,17 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 
 # Module 3 - Loops
 
-# Module 4 - Functions
+# Module 4 - Conditionals
 
-# Module 5 - Buttons
+# Module 5 - Functions
 
-# Module 6 - Text Input
+# Module 6 - Buttons
 
-# Module 7 - HTML Output
+# Module 7 - Text Input
 
-# Module 8 - Your First Game
+# Module 8 - HTML Output
+
+# Module 9 - Your First Game
 
 # Alternate Module - Getting Started (Coding on your computer)
 
