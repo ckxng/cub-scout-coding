@@ -15,6 +15,8 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 
 # Module 2 - Variables
 
+- [Exercise 2.1](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-2-1) - Hello name!
+
 # Module 3 - Loops
 
 # Module 4 - Functions

@@ -1,0 +1,13 @@
+---
+name: Exercise 2.1
+description: Hello + name!
+authors:
+  - Cameron King
+resources:
+  - https://ckxng.github.io/cub-scout-coding/lib/easy.js
+wrap: d
+normalize_css: no
+html_panel: 0
+css_panel: 0
+js_panel: 0
+dtd: html 5
