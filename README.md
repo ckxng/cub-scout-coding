@@ -18,20 +18,6 @@ This repository contains some guided exercises for Akela and a Cub Scout to lear
 - [Exercise 2.1](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-2-1) - Hello + name!
 - [Exercise 2.2](https://jsfiddle.net/gh/get/library/pure/ckxng/cub-scout-coding/tree/master/ex-2-2) - Hello $name!
 
-# Module 3 - Loops
-
-# Module 4 - Conditionals
-
-# Module 5 - Functions
-
-# Module 6 - Buttons
-
-# Module 7 - Text Input
-
-# Module 8 - HTML Output
-
-# Module 9 - Your First Game
-
 # Alternate Module - Getting Started (Coding on your computer)
 
 - [Exercise Alt 1.1](ex-alt1-1/) - Downloading this code
